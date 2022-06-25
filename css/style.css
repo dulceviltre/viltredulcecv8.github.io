@@ -1,0 +1,10 @@
+header{
+    background-attachment: fixed;
+    background-position: center;
+    background-color: rgb(170, 113, 223,0.9);
+    opacity: o.2;
+}
+h1{
+    text-align: center;
+    color: rgb(240, 255, 240,0.9);
+}
